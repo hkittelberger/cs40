@@ -1,0 +1,3 @@
+[submodule "filesofpix"]
+	path = filesofpix
+	url = https://github.com/hkittelberger/filesofpix.git
