@@ -4,3 +4,6 @@
 [submodule "iii"]
 	path = iii
 	url = https://github.com/hkittelberger/iii.git
+[submodule "locality"]
+	path = locality
+	url = https://github.com/hkittelberger/locality
