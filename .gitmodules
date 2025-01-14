@@ -7,3 +7,15 @@
 [submodule "locality"]
 	path = locality
 	url = https://github.com/hkittelberger/locality
+[submodule "arith"]
+	path = arith
+	url = https://github.com/hkittelberger/arith
+[submodule "bomb"]
+	path = bomb
+	url = https://github.com/hkittelberger/bomb
+[submodule "um"]
+	path = um
+	url = https://github.com/hkittelberger/um
+[submodule "rpn"]
+	path = rpn
+	url = https://github.com/hkittelberger/rpn
